@@ -23,14 +23,6 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"ALTV4",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
-"url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
-"referer":"https://thaipbs-ujxrch.cdn.byteark.com",
-"info":"Server thaipbs",
-"playInNatPlayer":"true"},
-
-{
 "name":"Ch5",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",
 "url":"https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
@@ -41,9 +33,9 @@
 {
 "name":"TSport7",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
-"url":"https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8",
-"referer":"https://livesod365.info/",
-"info":"Server livesod365",
+"url":"https://live-us1.thaimomo.com/live-as/chtsport-1/chunklist_w559439066.m3u8",
+"referer":"https://famelack.com/tv/&userAgent=exo_player",
+"info":"Server famel",
 "playInNatPlayer":"true"},
 
 {
@@ -57,10 +49,10 @@
 {
 "name":"TNN16", 
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png", 
-"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd",
-"info":"Server 3bbtv",
-"online":"true",
-"drm":"clearkey","drmkey":"9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6"},
+"url":"https://live-us1.thaimomo.com/live-as/chtnn24-2/chunklist_w1251366243.m3u8",
+"referer":"https://famelack.com/tv/&userAgent=exo_player",
+"info":"Server famel",
+"playInNatPlayer":"true"},
 
 {
 "name":"Nation", 
@@ -81,26 +73,26 @@
 {
 "name":"true4U",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
-"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd",
-"info":"Server 3bbtv",
-"online":"true",
-"drm":"clearkey","drmkey":"4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25"},
+"url":"https://live-us1.thaimomo.com/live-as/chTrue4u-2/chunklist_w249050767.m3u8",
+"referer":"https://famelack.com/tv/&userAgent=exo_player",
+"info":"Server famel",
+"playInNatPlayer":"true"},
 
 {
 "name":"Gmm25",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
-"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd",
-"info":"Server 3bbtv",
-"online":"true",
-"drm":"clearkey","drmkey":"ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec"},
+"url":"https://live-us1.thaimomo.com/live-as/chgmmchannel-3/chunklist_w2068377954.m3u8",
+"referer":"https://famelack.com/tv/&userAgent=exo_player",
+"info":"Server famel",
+"playInNatPlayer":"true"},
 
 {
 "name":"CH8",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",  
-"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/28/28.mpd",
-"info":"Server 3bbtv",
-"online":"true",
-"drm":"clearkey","drmkey":"4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807"},
+"url":"https://live-us1.thaimomo.com/live-as/cheight-3/chunklist_w808511203.m3u8",
+"referer":"https://famelack.com/tv/&userAgent=exo_player",
+"info":"Server famel",
+"playInNatPlayer":"true"},
 
 {
 "name":"Mono29",  
@@ -113,14 +105,13 @@
 {
 "name":"MonoPlusHD",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",  
-"url":"https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd",
-"referer": "https://udn-streamer1.cdn.3bbtv.com:8443/&userAgent=exo_player",
-"info":"Server 3bbtv",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/monoplus.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
 		                
 {
-"name":"Mcotสำรอง1",
+"name":"Mcot",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
 "url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd",
 "info":"Server 3bbtv",
@@ -130,10 +121,10 @@
 {
 "name":"One31",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",  
-"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd",
-"info":"Server 3bbtv",
-"online":"true",
-"drm":"clearkey","drmkey":"6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e"},
+"url":"https://live-us1.thaimomo.com/live-as/chone-3/chunklist_w1288703719.m3u8",
+"referer":"https://famelack.com/tv/&userAgent=exo_player",
+"info":"Server famel",
+"playInNatPlayer":"true"},
 		
 {
 "name":"ThairatTV",  
@@ -146,10 +137,10 @@
 {
 "name":"Ch3",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
-"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd",
-"info":"Server 3bbtv",
-"online":"true",
-"drm":"clearkey","drmkey":"9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008"},
+"url":"https://live-us1.thaimomo.com/live-as/ch3hd-3/chunklist_w1630241822.m3u8",
+"referer":"https://famelack.com/tv/&userAgent=exo_player",
+"info":"Server famel",
+"playInNatPlayer":"true"},
              
 {
 "name":"AmarinTV",
@@ -600,14 +591,6 @@
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
-
-{  
-"name":"DMAX",
-"image":"https://dookeela.live/uploads/1714101765.png",
-"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/dmax.m3u8",
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer":"true"},
 				
 {
 "name":"Lovenature",
@@ -642,14 +625,6 @@
 "playInNatPlayer":"true"},
 
 {
-"name":"LifeTime",
-"image":"https://dookeela.live/uploads/1720781589.png",
-"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/truelifetime.m3u8",
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer":"true"},
-
-{
 "name":"TLC",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",
 "url":"https://github.com/cattv976/documentary/raw/refs/heads/main/tlc.m3u8", 
@@ -676,7 +651,7 @@
 {
 "name":"trueX-ZYTE",
 "image":"https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",
-"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/truexzyte1.m3u8", 
+"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/truexzyte.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -684,7 +659,7 @@
 {
 "name":"SamRujLok",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",
-"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/samrujlok1.m3u8", 
+"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/samrujlok.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -692,7 +667,7 @@
 {
 "name":"Mysci",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png",
-"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/mysci1.m3u8", 
+"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/mysci.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -700,7 +675,7 @@
 {
 "name":"AnimalShow",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png",
-"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/animalshow1.m3u8", 
+"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/animalshow.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -708,7 +683,7 @@
 {
 "name":"Thainess",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png",
-"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/thainess1.m3u8", 
+"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/thainess.m3u8", 
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -716,7 +691,7 @@
 {
 "name":"Khongdee",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png",
-"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/khongdee1.m3u8",
+"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/khongdee.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
@@ -852,9 +827,9 @@
 {
 "name":"CNN",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png",
-"url":"https://dookeela4.live/live-tv/cnn",
-"referer":"https://dookeela.live/",
-"info":"Server dookeela",
+"url":"https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+"referer":"https://turnerlive.warnermediacdn.com/",
+"info":"Server turnerlive",
 "playInNatPlayer":"true"},
 
 {
