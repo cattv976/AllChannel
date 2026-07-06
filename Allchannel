@@ -337,10 +337,10 @@
 {
 "name":"AsianHits",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png",
-"url":"https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd",
-"info":"Server 3bbtv",
-"online":"true",
-"drm":"clearkey","drmkey":"dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48"},
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/asianhits.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
+"playInNatPlayer":"true"},
 
 {
 "name":"Cool Channel",
