@@ -193,7 +193,7 @@
 {
 "name":"HBO",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
-"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbo.m3u8",
+"url":"https://github.com/cattv976/movies/raw/refs/heads/main/hbo1.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
