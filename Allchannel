@@ -161,9 +161,9 @@
 {
 "name":"PPTV",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-"url":"https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8",
-"referer":"https://lb-gmmz.sky-cdn.com/",
-"info":"Server gmmz.sky-cdn.com",
+"url":"https://live.livedoomovies.com:4433/live/02_PPTVHD_720p/playlist.m3u8",
+"referer":"https://www.doonewmovie365.com/",
+"info":"Server doonewmovie365",
 "playInNatPlayer":"true"},
                 
 {
@@ -691,7 +691,7 @@
 {
 "name":"Khongdee",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png",
-"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/khongdee.m3u8",
+"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/khongdeethailand.m3u8",
 "referer":"https://github.com/",
 "info":"Server github",
 "playInNatPlayer":"true"},
