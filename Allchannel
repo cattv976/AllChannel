@@ -193,33 +193,33 @@
 {
 "name":"HBO",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
-"url":"https://godlivetv.io/madoball/2820/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
  	                 
 {
 "name":"HBOHits",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
-"url":"https://godlivetv.io/madoball/2819/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=hbohits",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
 
 {     
 "name":"HBOSignature",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",              
-"url":"https://godlivetv.io/madoball/2818/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=hbosignsture",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
 
 {
 "name":"HBOFamily",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",              
-"url":"https://godlivetv.io/madoball/2816/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=hbofamily",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
 
 {
@@ -281,9 +281,9 @@
 {
 "name":"trueTHAIFILM",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://godlivetv.io/madoball/1874/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/121.m3u8",
+"referer":"https://github.com/",
+"info":"Server m7smarter",
 "playInNatPlayer":"true"},
 
 {
@@ -305,9 +305,9 @@
 {
 "name":"trueMOVIEHITS",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://godlivetv.io/madoball/1875/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/124.m3u8",
+"referer":"https://github.com/",
+"info":"Server m7smarter",
 "playInNatPlayer":"true"},
 
 {
@@ -337,9 +337,9 @@
 {
 "name":"CCM",
 "image":"https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",
-"url":"https://godlivetv.io/madoball/1913/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/118.m3u8",
+"referer":"http://dootvz.ddns.net:25461/live/",
+"info":"Server dootvz.ddns.net",
 "playInNatPlayer":"true"},
 
 {
