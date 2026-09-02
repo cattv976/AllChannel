@@ -209,7 +209,7 @@
 {     
 "name":"HBOSignature",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",              
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=hbosignsture",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=hbosignature",
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
@@ -225,9 +225,9 @@
 {
 "name":"Cinemax",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
-"url":"https://godlivetv.io/madoball/2815/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=cinemax",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
 
 {
@@ -241,17 +241,17 @@
 {
 "name":"RockAction",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
-"url":"https://godlivetv.io/madoball/2930/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=rockaction",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
 
 {
 "name":"RockEnterainment",
 "image":"https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",
-"url":"https://godlivetv.io/madoball/2929/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=rockenterainment",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
 
 {
@@ -265,9 +265,9 @@
 {
 "name":"Axn",
 "image":"https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",              
-"url":"https://godlivetv.io/madoball/2650/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=axn",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
  
 {
