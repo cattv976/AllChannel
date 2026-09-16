@@ -253,19 +253,11 @@
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
-
-{
-"name":"ROCK X Stream",
-"image":"https://madoball.com/upload/261622.jpg",
-"url":"https://godlivetv.io/madoball/261622/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
-"playInNatPlayer":"true"},
-  
+ 
 {
 "name":"Axn",
 "image":"https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",              
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=axn",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=axnhd",
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
@@ -281,15 +273,15 @@
 {
 "name":"trueTHAIFILM",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/121.m3u8",
-"referer":"https://github.com/",
-"info":"Server m7smarter",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truethaifilmhd",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
 
 {
 "name":"trueFILM1",  
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",  
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilm1",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmhd",
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
@@ -297,7 +289,7 @@
 {
 "name":"trueFILM2",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilm2",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmhd2",
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
@@ -305,31 +297,23 @@
 {
 "name":"trueMOVIEHITS",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"http://dootvz.ddns.net:25461/live/skycos3/aa2233/124.m3u8",
-"referer":"https://github.com/",
-"info":"Server m7smarter",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehitshd",
+"referer":"https://movieproxy.tawatchai250958.workers.dev/",
+"info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
 
 {
 "name":"trueFILMASIA",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=turefilmasia",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=turefilmasiahd",
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
  
-{
-"name":"trueSeries",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://godlivetv.io/madoball/1916/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
-"playInNatPlayer":"true"},
-
 { 
 "name":"trueASIANMORE",
 "image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",             
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=tureasianmore",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=tureasianmorehd",
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
