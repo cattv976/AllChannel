@@ -101,14 +101,6 @@
 "info":"Server 3bbtv",
 "online":"true",
 "drm":"clearkey","drmkey":"96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516"},
-
-{
-"name":"MonoPlusHD",  
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",  
-"url":"https://github.com/cattv976/movies/raw/refs/heads/main/monoplus.m3u8",
-"referer":"https://github.com/",
-"info":"Server github",
-"playInNatPlayer":"true"},
 		                
 {
 "name":"Mcot",
@@ -121,9 +113,9 @@
 {
 "name":"One31",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",  
-"url":"https://godlivetv.io/madoball/461/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8",
+"referer":"https://fastly.live.brightcove.com/",
+"info":"Server fastly.live.brightcove",
 "playInNatPlayer":"true"},
 		
 {
@@ -137,9 +129,9 @@
 {
 "name":"Ch3",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
-"url":"https://godlivetv.io/madoball/7348/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://live-us1.thaimomo.com/live-as/ch3hd-3/chunklist_w961955100.m3u8",
+"referer":"https://live-us1.thaimomo.com/",
+"info":"Server live-us1.thaimomo",
 "playInNatPlayer":"true"},
              
 {
@@ -257,7 +249,7 @@
 {
 "name":"Axn",
 "image":"https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",              
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=axnhd",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=axn",
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
@@ -265,7 +257,7 @@
 {
 "name":"Warnertv",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=warnertv",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=warner",
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
@@ -273,7 +265,7 @@
 {
 "name":"trueTHAIFILM",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truethaifilmhd",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truethaifilm",
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
@@ -297,7 +289,7 @@
 {
 "name":"trueMOVIEHITS",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehitshd",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehits",
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
@@ -305,7 +297,7 @@
 {
 "name":"trueFILMASIA",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=turefilmasiahd",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=turefilmasia",
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
@@ -313,7 +305,7 @@
 { 
 "name":"trueASIANMORE",
 "image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",             
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=tureasianmorehd",
+"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=tureasianmore",
 "referer":"https://movieproxy.tawatchai250958.workers.dev/",
 "info":"Server movieproxy.tawatchai250958",
 "playInNatPlayer":"true"},
@@ -451,42 +443,6 @@
 "referer": "https://49.0.64.96:8007",
 "info":"Server 49.0.64.96:8007",
 "playInNatPlayer":"true"},
-
-{
-"name":"Movies5",  
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
-"url":"http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w5H53SITSMYtRd-Oqf6wLL0/m3u8",
-"referer": "http://43.229.132.25:80/play/&userAgent=exo_player",
-"info":"Server 43.229.132.25:80",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-{
-"name":"Movies6",  
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
-"url":"http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w_5cOTPtf2-yuYVaNlq13GI/m3u8",
-"referer": "http://43.229.132.25:80/play/&userAgent=exo_player",
-"info":"Server 43.229.132.25:80",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-{
-"name":"Movies7",  
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
-"url":"http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1wwRB5fluemONXXZNwQoTE3k/m3u8",
-"referer": "http://43.229.132.25:80/play/&userAgent=exo_player",
-"info":"Server 43.229.132.25:80",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
-
-{
-"name":"Movies8",  
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",  
-"url":"http://43.229.132.25:80/play/bQ-fFu7dMOtIPDjoXbK1w0oWEYO_FOJVpIFrwrh9dqo/m3u8",
-"referer": "http://43.229.132.25:80/play/&userAgent=exo_player",
-"info":"Server 43.229.132.25:80",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36", "playInNatPlayer": "true"},
 
 {
 "name":"Discovery",
@@ -631,6 +587,7 @@
 "referer":"https://www.madoball.com/",
 "info":"Server madoball",
 "playInNatPlayer":"true"},
+
 {
 "name":"foodnetwork",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png",
@@ -650,41 +607,41 @@
 {
 "name":"SamRujLok",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",
-"url":"https://godlivetv.io/madoball/563/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://edge-2.m-fixer.net:8092/stream/ais/samrujlok/master.m3u8",
+"referer":"https://edge-1.m-fixer.net/",
+"info":"Server edge-1.m-fixer",
 "playInNatPlayer":"true"},
 											
 {
 "name":"Mysci",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png",
-"url":"https://godlivetv.io/madoball/555/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://edge-1.m-fixer.net:8092/stream/ais/mysci/master.m3u8",
+"referer":"https://edge-1.m-fixer.net/",
+"info":"Server edge-1.m-fixer",
 "playInNatPlayer":"true"},
 
 {
 "name":"AnimalShow",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png",
-"url":"https://godlivetv.io/madoball/710/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://edge-1.m-fixer.net:8092/stream/ais/animalshow/master.m3u8",
+"referer":"https://edge-1.m-fixer.net/",
+"info":"Server edge-1.m-fixer",
 "playInNatPlayer":"true"},
   
 {
 "name":"Thainess",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png",
-"url":"https://godlivetv.io/madoball/715/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://edge-1.m-fixer.net:8092/stream/ais/thainess/master.m3u8",
+"referer":"https://edge-1.m-fixer.net/",
+"info":"Server edge-1.m-fixer",
 "playInNatPlayer":"true"},
 
 {
 "name":"Khongdee",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png",
-"url":"https://godlivetv.io/madoball/716/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://edge-1.m-fixer.net:8092/stream/ais/khongdee/master.m3u8",
+"referer":"https://edge-1.m-fixer.net/",
+"info":"Server edge-1.m-fixer",
 "playInNatPlayer":"true"},
 
 {
