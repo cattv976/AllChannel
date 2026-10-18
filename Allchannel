@@ -4,7 +4,6 @@
 "image":"https://www.psnsat.com/wp-content/uploads/2020/07/digital-ch-new.jpg",   
 "info":"For เด็กปาพนังน่ะครับ",
 "stations": 
-
 [
 	
 {
@@ -102,6 +101,7 @@
 "online":"true",
 "drm":"clearkey","drmkey":"96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516"},
 
+{
 "name":"MonoPlus",  
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",  
 "url":"https://kicksball.com/tv/mono29-plus-280",
