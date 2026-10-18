@@ -101,6 +101,13 @@
 "info":"Server 3bbtv",
 "online":"true",
 "drm":"clearkey","drmkey":"96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516"},
+
+"name":"MonoPlus",  
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",  
+"url":"https://kicksball.com/tv/mono29-plus-280",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
+"playInNatPlayer":"true"},
 		                
 {
 "name":"Mcot",
@@ -153,9 +160,9 @@
 {
 "name":"PPTV",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-"url":"https://godlivetv.io/madoball/1664/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://edge-1.m-fixer.net:8092/stream/ais/pptvhd/master.m3u8",
+"referer":"https://aisplay.ais.th/",
+"info":"Server aisplay",
 "playInNatPlayer":"true"},
                 
 {
@@ -185,41 +192,41 @@
 {
 "name":"HBO",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=hbo",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/hbo-274",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
  	                 
 {
 "name":"HBOHits",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=hbohits",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/hbo-hits-276",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {     
 "name":"HBOSignature",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",              
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=hbosignature",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/hbo-signature-275",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"HBOFamily",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",              
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=hbofamily",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/hbo-family-277",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"Cinemax",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=cinemax",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/cinemax-278",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
@@ -233,81 +240,81 @@
 {
 "name":"RockAction",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=rockaction",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/rock-entertainment-403",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"RockEnterainment",
 "image":"https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=rockenterainment",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/rock-action-402",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
  
 {
 "name":"Axn",
 "image":"https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",              
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=axn",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/axn-hd-413",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
  
 {
 "name":"Warnertv",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=warner",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/warner-tv-282",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
  
 {
 "name":"trueTHAIFILM",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truethaifilm",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/true-thai-film-307",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"trueFILM1",  
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png",  
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmhd",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/true-film-1-418",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"trueFILM2",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truefilmhd2",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/true-film-2-420",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"trueMOVIEHITS",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=truemoviehits",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/true-movie-hits-412",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"trueFILMASIA",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=turefilmasia",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/true-film-asia-404",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
  
 { 
 "name":"trueASIANMORE",
 "image":"https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png",             
-"url":"https://movieproxy.tawatchai250958.workers.dev/watch?id=tureasianmore",
-"referer":"https://movieproxy.tawatchai250958.workers.dev/",
-"info":"Server movieproxy.tawatchai250958",
+"url":"https://kicksball.com/tv/true-asian-more-405",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
@@ -321,9 +328,9 @@
 {
 "name":"AsianHits",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png",
-"url":"https://godlivetv.io/madoball/2821/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/asian-hits-281",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
@@ -447,25 +454,25 @@
 {
 "name":"Discovery",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",
-"url":"https://godlivetv.io/madoball/1546/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/discovery-301",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 				
 {
 "name":"DiscoveryAsia",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",
-"url":"https://godlivetv.io/madoball/1606/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/discovery-asia-302",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
                   				
 {
 "name":"History",
 "image":"https://rentapi.blackboxsys.net/images/png/hd-history.png",
-"url":"https://godlivetv.io/madoball/1667/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/history.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
                                                                                                   								                                                							                                                                                     
 {
@@ -479,9 +486,9 @@
 {
 "name":"trueEXPLOREWILD",
 "image":"https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",
-"url":"https://godlivetv.io/madoball/740/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/true-explore-wild-491",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
                           				  						                         								
 {
@@ -495,9 +502,9 @@
 {
 "name":"trueEXPLORESCI",
 "image":"https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",
-"url":"https://godlivetv.io/madoball/722/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/true-explore-sci-493",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 						 
 {
@@ -511,9 +518,9 @@
 {
 "name":"BBCLifestyle",
 "image":"http://tvsmagazine.com/images/channels/lrg_130.jpg",
-"url":"https://godlivetv.io/madoball/1689/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://github.com/cattv976/documentary/raw/refs/heads/main/bbclifestyle.m3u8",
+"referer":"https://github.com/",
+"info":"Server github",
 "playInNatPlayer":"true"},
                                 								                                                               												                              				
 {
@@ -531,23 +538,7 @@
 "referer":"https://live.dinesh29.com/",
 "info":"Server live.dinesh29",
 "playInNatPlayer":"true"},
-
-{  
-"name":"CGTH",
-"image":"https://madoball.com/upload/2100.jpg",
-"url":"https://godlivetv.io/madoball/2100/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
-"playInNatPlayer":"true"},
 				
-{
-"name":"Deutsche Welle DW",
-"image":"https://madoball.com/upload/2145.jpg",
-"url":"https://godlivetv.io/madoball/2145/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
-"playInNatPlayer":"true"},
-
 {
 "name":"OutDoor",
 "image":"https://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png",
@@ -575,33 +566,33 @@
 {
 "name":"TLC",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",
-"url":"https://godlivetv.io/madoball/1496/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/tlc-396",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"afn",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
-"url":"https://godlivetv.io/madoball/1854/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/asian-food-network-398",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"foodnetwork",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png",
-"url":"https://godlivetv.io/madoball/1845/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/food-network-397",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"trueX-ZYTE",
 "image":"https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",
-"url":"https://godlivetv.io/madoball/2056/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/true-x-zyte-407",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
@@ -679,138 +670,100 @@
 {
 "name":"Boomerang",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",
-"url":"https://godlivetv.io/madoball/8999/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/boomerang-291",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"DreamWorks",
 "image":"https://dookeela.live/uploads/1723200736.png",
-"url":"https://godlivetv.io/madoball/2347/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/dreamworks-460",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"Cartoon Network",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",
-"url":"https://godlivetv.io/madoball/8007/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/cartoon-network-314",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"Nick Jr.",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png",
-"url":"https://godlivetv.io/madoball/2875/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/nick-jr-316",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"Nickelodeon",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",
-"url":"https://godlivetv.io/madoball/2829/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/nickelodeon-315",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"cartoonito",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",
-"url":"https://godlivetv.io/madoball/477/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/caroonito-285",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"CNN",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png",
-"url":"https://godlivetv.io/madoball/6639/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/cnn-298",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"BBCNews",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBCNEWS.png",
-"url":"https://godlivetv.io/madoball/6638/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/bbc-news-296",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"France24",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png",
-"url":"https://godlivetv.io/madoball/394/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/france-24-558",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"CCTV4",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png",
-"url":"https://godlivetv.io/madoball/402/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/cctv4-299",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"ABC Australia",
 "image":"https://madoball.com/upload/1600.jpg",
-"url":"https://godlivetv.io/madoball/1600/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/abc-news-live-740",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
 {
 "name":"Al Jazeera",
 "image":"https://madoball.com/upload/404.jpg",
-"url":"https://godlivetv.io/madoball/404/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
+"url":"https://kicksball.com/tv/al-jazeera-english-hd-552",
+"referer":"https://kicksball.com/",
+"info":"Server kicksball",
 "playInNatPlayer":"true"},
 
-{
-"name":"CBS News (CBSN)",
-"image":"https://madoball.com/upload/3026.jpg",
-"url":"https://godlivetv.io/madoball/3026/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
-"playInNatPlayer":"true"},
 
-{
-"name":"Channel NewsAsia",
-"image":"https://madoball.com/upload/433.jpg",
-"url":"https://godlivetv.io/madoball/433/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
-"playInNatPlayer":"true"},
-
-{
-"name":"Euronews",
-"image":"https://madoball.com/upload/4337.jpg",
-"url":"https://godlivetv.io/madoball/4337/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
-"playInNatPlayer":"true"},
-
-{
-"name":"FOX NEWS",
-"image":"https://madoball.com/upload/9196.jpg",
-"url":"https://godlivetv.io/madoball/9196/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
-"playInNatPlayer":"true"},
-
-{
-"name":"RT NEWS",
-"image":"https://madoball.com/upload/1497.jpg",
-"url":"https://godlivetv.io/madoball/1497/playlist.m3u8",
-"referer":"https://www.madoball.com/",
-"info":"Server madoball",
-"playInNatPlayer":"true"},
 
 
 
